@@ -59,6 +59,10 @@ You can also add a success and failure callback like this:
 
 #Release Notes
 
+Upcoming
+
+* Fixed changed plugin id in `package.json` and `plugin.xml`,  to solve [reinstall problem](https://stackoverflow.com/questions/36145362/cordova-why-cordova-plugin-market-is-being-fetched-every-time)
+
 Version 1.2
 
 * Added API to search apps in Play Store (supported just in Android)
